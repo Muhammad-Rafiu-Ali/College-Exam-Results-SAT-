@@ -1,3 +1,4 @@
+project video: https://www.linkedin.com/posts/rafiu-ali_datascience-machinelearning-dataanalysis-activity-7208722454045696001-UmJJ?utm_source=share&utm_medium=member_desktop
 Dataset: https://www.kaggle.com/datasets/sahirmaharajj/college-exam-results-sat
 Summary of Analysis and Modeling
 Dataset Description:
